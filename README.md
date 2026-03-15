@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="./assets/tech-stack.png" alt="My Tech Stack" width="1584" />
+</p>
 <div align="center">
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaad%20Ahmad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20cool%20things%20with%20code&descAlignY=55&descSize=16" width="100%"/>
 
