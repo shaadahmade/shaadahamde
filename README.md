@@ -27,7 +27,7 @@ Currently working on **Cardoo** — a digital identity app for India 🇮🇳
 | Project | Description | Tech |
 |---|---|---|
 | [**Cardoo**](https://github.com/shaadahmade/whitecardfinal) | Digital identity app — store & share Aadhaar, PAN, DL via QR | Kotlin · Jetpack Compose · Firebase |
-| [**TechStack Banner Maker**](https://github.com/shaadahmade/bannermaker) | Visual drag-and-drop builder for GitHub profile banners | React · TypeScript · Vite |
+
 
 ---
 
