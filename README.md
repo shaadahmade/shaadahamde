@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### 👋 Hey, I'm Shaad Ahmad
+###  Hey, I'm Shaad Ahmad
 
 **GenAI & Agentic AI Consultant · Full-Stack Builder**
 
@@ -26,7 +26,7 @@ Currently also building **Cardoo**, a digital identity app for India 🇮🇳
 
 ---
 
-### 🧠 What I Build
+### What I Build
 
 | Capability | What it means |
 |---|---|
@@ -40,7 +40,7 @@ because a demo that impresses is not the same as one you can run on Monday.
 
 ---
 
-### 🚀 Shipped to Production
+### Shipped to Production
 
 | Engagement | What it does |
 |---|---|
@@ -50,7 +50,7 @@ because a demo that impresses is not the same as one you can run on Monday.
 
 ---
 
-### 📦 Projects
+###  Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -59,7 +59,7 @@ because a demo that impresses is not the same as one you can run on Monday.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -85,7 +85,7 @@ tracing, evaluation and token budgets
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -102,7 +102,7 @@ tracing, evaluation and token budgets
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 <div align="center">
 
@@ -111,7 +111,7 @@ tracing, evaluation and token budgets
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shaad--a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaad-a-21423a204)
 [![GitHub](https://img.shields.io/badge/GitHub-shaadahmade-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaadahmade)
 
-📍 Lucknow, India
+ 
 
 </div>
 
