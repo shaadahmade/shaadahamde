@@ -46,7 +46,7 @@ because a demo that impresses is not the same as one you can run on Monday.
 |---|---|
 | **Legal Agentic RAG** <br/> Contracts Specialist Pty Ltd · Legal · Australia · 2025 | Production RAG over 50,000+ contract and legal PDFs. Hybrid BM25 plus dense retrieval with cross-encoder reranking, which cut the hallucination rate measurably. |
 | **AI Hiring Automation** <br/> Cartrends Auto Parts · Automotive · India · 2025 | A 7-stage pipeline from job post to onboarding that removed roughly 95% of the HR workload per hire, leaving just 3 human decision points. |
-| **RFQ to Quotation** <br/> Kiah Metallurgical · Metals Trading · 2026 | Email in, techno-commercial offer out. Nothing reaches a customer without human approval. |
+| **RFQ to Quotation** <br/>   | Email in, techno-commercial offer out. Nothing reaches a customer without human approval. |
 
 ---
 
