@@ -44,63 +44,48 @@ because a demo that impresses is not the same as one you can run on Monday.
 
 | Engagement | What it does |
 |---|---|
-| **Legal Agentic RAG** <br/> Contracts Specialist Pty Ltd · Legal · Australia · 2025 | Production RAG over 50,000+ contract and legal PDFs. Hybrid BM25 plus dense retrieval with cross-encoder reranking, which cut the hallucination rate measurably. |
-| **AI Hiring Automation** <br/> Cartrends Auto Parts · Automotive · India · 2025 | A 7-stage pipeline from job post to onboarding that removed roughly 95% of the HR workload per hire, leaving just 3 human decision points. |
+| **Legal Agentic RAG** <br/>  | Production RAG over 50,000+ contract and legal PDFs. Hybrid BM25 plus dense retrieval with cross-encoder reranking, which cut the hallucination rate measurably. |
+| **AI Hiring Automation** <br/>  | A 7-stage pipeline from job post to onboarding that removed roughly 95% of the HR workload per hire, leaving just 3 human decision points. |
 | **RFQ to Quotation** <br/>   | Email in, techno-commercial offer out. Nothing reaches a customer without human approval. |
 
----
 
-###  Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **Cardoo** | Digital identity app. Store and share Aadhaar, PAN and DL via QR | Kotlin · Jetpack Compose · Firebase |
-| [**shaadahmad.com**](https://shaadahmad.com) | Consultancy site, WebGL scroll choreography and a liquid metal torus | React · TypeScript · Three.js · Tailwind |
-
----
-
-###  Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+## GenAI Engineering
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector_DB-005571?style=for-the-badge)
+![promptfoo](https://img.shields.io/badge/promptfoo-181717?style=for-the-badge)
+
+</div>
+
+**Techniques:** hybrid BM25 and dense retrieval · cross-encoder reranking · metadata filtering · tool-calling agents · structured outputs · schema validation · OCR and layout-aware parsing · tracing, evaluation and token budgets
+
+
+
 
 **Techniques:** hybrid BM25 and dense retrieval · cross-encoder reranking · metadata filtering ·
 tool-calling agents · structured outputs · schema validation · OCR and layout-aware parsing ·
 tracing, evaluation and token budgets
 
----
 
-###  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaadahmade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaadahmade&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shaadahmade&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ### Get in Touch
 
